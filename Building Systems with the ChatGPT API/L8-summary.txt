@@ -1,0 +1,2 @@
+In the previous few videos, Isa showed how to build an application using an LLM. 
+In this video, I'd like to share with you some best practices for evaluating the output of an LLM.

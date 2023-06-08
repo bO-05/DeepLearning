@@ -1,0 +1,5 @@
+In the last video, you saw how to evaluate an output in an example where it had the right answer. But one of the LLM is used to generate text data. Is it just one right piece of text? Let's take a look at an approach for how to evaluation that type of LLm outputs.
+
+meaning a list of criteria by which to evaluate an alarm output, then you can actually use another API call to evaluate your first output. There's one of the design pattern that could be useful for some applications. which is if you can specify an ideal response.
+
+1 Lm is a tool to evaluate output of an LM system. It can be used to compare output to an expert provided ID answer. If you can write a rubric, you can use 1 Lm to evaluate another output. And second, if you can provide an. expert provided answer, then that can help your LOM better compare if and if a. specific assistant output is similar to the expert provided ID answer.
